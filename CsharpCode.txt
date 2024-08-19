@@ -1,0 +1,49 @@
+sssssssss
+using System;
+
+// Define the Exercise16 class
+public class Exercise16
+{
+    // Main method - entry point of the program
+    public static void Main()
+    {
+        string username, password; // Declare variables to store username and password
+        int ctr = 0; // Counter for login attempts
+
+        // Prompt the user to check username and password
+        Console.Write("\n\nCheck username and password :\n");
+        Console.Write("N.B. : Default username and password are: abcd and 1234\n");
+        Console.Write("------------------------------------------------------\n");
+
+        // Start a do-while loop for login attempts
+        do
+        {
+            Console.Write("Input a username: ");
+            username = Console.ReadLine(); // Read the input username
+
+            Console.Write("Input a password: ");
+            password = Console.ReadLine(); // Read the input password
+
+            // Check if username or password is incorrect
+            if (username != "abcd" || password != "1234")
+            {
+                ctr++; // Increment the login attempt counter
+            }
+            else
+            {
+                ctr = 1; // Set the counter to 1 to break the loop if credentials are correct
+            }
+
+        } while ((username != "abcd" || password != "1234") && (ctr != 3)); // Continue loop until valid credentials or max attempts reached
+
+        // Check if the maximum login attempts are reached
+        if (ctr == 3)
+        {
+            Console.Write("\nLogin attempt three or more times. Try later!\n\n");
+        }
+        else
+        {
+            Console.Write("\nThe password entered successfully!\n\n");
+        }
+    }
+}
