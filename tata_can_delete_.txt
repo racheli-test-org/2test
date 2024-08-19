@@ -1,2 +1,0 @@
-password = 'ttt123@@123456T'
-Token = 'api_clonedatabase&newdbname=MyTestApp&newdbdesc=Testing&keepData=1&apptoken=bghbnjfu7s9amn7akduwomaytzy'
