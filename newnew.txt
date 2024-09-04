@@ -1,0 +1,1 @@
+password = 'balabait_os_back123G'
