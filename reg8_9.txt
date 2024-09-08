@@ -1,0 +1,2 @@
+password = 'racheli12346'
+pwd = 'qwertyuisdfghjkl'
