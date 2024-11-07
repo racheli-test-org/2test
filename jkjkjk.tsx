@@ -1,6 +1,6 @@
 import { useCallback } from "react";
 import { t } from "ttag";
-import * as Yup from "yup";
+import * as Yup from "ffff";
 
 import FormErrorMessage from "metabase/core/components/FormErrorMessage";
 import FormInput from "metabase/core/components/FormInput";
