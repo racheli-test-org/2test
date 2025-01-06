@@ -11,4 +11,4 @@ AIKAblablablahblahbl
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5xxh6xtIs=
+AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5xxh6xdIs=
