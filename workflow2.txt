@@ -1,0 +1,44 @@
+{
+  "insertId": "jh6y926no97azcrv",
+  "jsonPayload": {
+    "category": "Lim.Integrations.ExtendJiraWebhooksLifeService",
+    "values": {
+      "ex": "Response status code does not indicate success: 400 (Bad Request)."
+    },
+    "is_test": true,
+    "template": "An error was thrown when trying to refresh webhook. The error is {ex}",
+    "version": "1.6086.0",
+    "timestamp": "2025-01-19T12:24:37.949Z",
+    "message": "An error was thrown when trying to refresh webhook. The error is Response status code does not indicate success: 400 (Bad Request).\nSystem.ApplicationException: Error in the application.\n   at Lim.Integrations.ExtendJiraWebhooksLifeService.WorkAsync(CancellationToken cancellationToken) in /Lim.Integrations/Providers/Jira/ExtendJiraWebhooksLifeService.cs:line 60\n\n--- End of stack trace from previous location ---\n"
+  },
+  "resource": {
+    "type": "k8s_container",
+    "labels": {
+      "project_id": "apiiro-rnd",
+      "pod_name": "lim-api-5d7c74cd7d-djx5m",
+      "container_name": "lim-api",
+      "cluster_name": "apiiro-rnd-self-service-eu",
+      "namespace_name": "66496ee6c92542828c0cdfdf2a",
+      "location": "europe-west1"
+    }
+  },
+  "timestamp": "2025-01-19T12:24:37.950226602Z",
+  "severity": "ERROR",
+  "labels": {
+    "k8s-pod/namespace_is_test": "True",
+    "k8s-pod/namespace_status": "Active",
+    "k8s-pod/namespace_fullname": "Rachelis_Playground",
+    "k8s-pod/namespace_partner": "",
+    "k8s-pod/pod-template-hash": "5d7c74cd7d",
+    "compute.googleapis.com/resource_name": "gke-apiiro-rnd-self--apiiro-rnd-ss-eu-483437b8-481g",
+    "k8s-pod/namespace_kubernetes_io_metadata_name": "66496ee6c92542828c0cdfdf2a",
+    "k8s-pod/app": "lim-api"
+  },
+  "logName": "projects/apiiro-rnd/logs/stdout",
+  "receiveTimestamp": "2025-01-19T12:24:39.983189687Z",
+  "errorGroups": [
+    {
+      "id": "CIz2nO2ospG-Cg"
+    }
+  ]
+}
