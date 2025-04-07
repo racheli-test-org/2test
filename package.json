@@ -1,0 +1,14 @@
+
+Viewed
+Original file line number	Original file line	Diff line number	Diff line change
+@@ -0,0 +1,10 @@
+{
+  "private": true,
+  "name": "webpack-dev-fixture",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "build": "rm -f output.js && webpack --config config.js"
+  }
+}
