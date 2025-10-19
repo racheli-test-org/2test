@@ -1,0 +1,14 @@
+{
+  "name": "OWASP Juice Shop",
+  "description": "Probably the most modern and sophisticated insecure web application",
+  "keywords": [
+       "bodgeit",
+    "ctf",
+    "capture the flag",
+    "awareness"
+  ],
+  "website": "https://owasp-juice.shop",
+  "repository": "httts://rcahel.com",
+  "logo": "https://raw.githubusercontent.com/juice-shop/juice-shop/master.png",
+  "firesec": "AIzaSyGZPN9Mb2_I6nnnnn7KD2bpAmc"
+}
