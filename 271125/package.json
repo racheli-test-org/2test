@@ -76,3 +76,5 @@
     "test": "test"
   }
 }
+
+password = '12345'
