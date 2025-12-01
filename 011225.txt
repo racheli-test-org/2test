@@ -12,3 +12,5 @@ AIKAblablablahblahbl
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
 # ok: detected-google-api-key
 AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
+
+password = '12345'
