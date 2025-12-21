@@ -1,7 +1,7 @@
 # ruleid: detected-google-api-key
 AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
 # ruleid: detected-google-api-key
-AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
+AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--g8999
 # ruleid: detected-google-api-key
 AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
 # ruleid: detected-google-api-key
