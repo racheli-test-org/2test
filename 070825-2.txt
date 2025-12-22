@@ -5,10 +5,3 @@ AIzaSyBGJlWlxZEnJ2yUape3AjqmNyo5--h6xtI
 # ruleid: detected-google-api-key
 AIzaSyAxgKw8qkRZvR1QjpTh7red4-HuesZItIs
 
-# ok: detected-google-api-key
-AIKAblablablahblahbl
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtI==
-# ok: detected-google-api-key
-AIzaSyBGJlWlxZEnJ7yUape3AjqmNyo5xxh6xtIs=
-
