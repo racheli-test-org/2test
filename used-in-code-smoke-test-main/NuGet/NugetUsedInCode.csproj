@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <AssemblyTitle>NugetUsedInCode</AssemblyTitle>
+      <TargetFramework>netstandard2.0</TargetFramework>
+      <AssemblyName>NugetUsedInCode</AssemblyName>
+      <PackageId>NugetUsedInCode</PackageId>
+      <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+      <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+      <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+      <Version>3.1.1</Version>
+      <AssemblyVersion>3.1.1.0</AssemblyVersion>
+      <FileVersion>3.1.1.0</FileVersion>
+      <PackageVersion>3.1.1</PackageVersion>
+    </PropertyGroup>
+  
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+      <PackageReference Include="Refit.HttpClientFactory" Version="7.0.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+      <PackageReference Include="Apiiro.Smoke.Test" Version="1.0.0" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.2"/>
+      <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
+      <PackageReference Include="Moq" Version="4.7.145" />
+    </ItemGroup>
+  
+  </Project>
