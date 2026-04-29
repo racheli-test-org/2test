@@ -1,0 +1,21 @@
+<div class="form-item form-type-password form-item-user-pin">
+										<label for="pin">PIN: </label>
+										<input type="password" id="pin" name="user_pin" size="60" maxlength="128" class="form-text" autocomplete="off" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDiIqO1Am6gAAAb1JREFUOMvNkk1rU0EUhp8zd0gCrdKFNgiCFatiIYgUKdW6aikuhIJF6kJcdFFEXAclzM0XJH9A6EL8BSoqZlEQCl0GEQU/qApdiYouKmgUbu7luGgC+boUuvLdvcPMc86c88J/p2w2e9g5d7btnXNTzrlM3H3TaZxzt1Kp1KaI3AcEEBFZFZFXvu9XBgFsjw9EZAjIOOeWVDUUkTMAqvppEEB6ve/7GyJyAfioqpGInALWi8XibCwgl8sdMcbsbzabf621Y8aYNRHxWpUjYFFVv4vIcBiGPyqVyuuuL1hrbwM3kslkf4Ud0BORnWattfeAld4hmr1uTVrTn1TVg6r6U0RGPc97DJh21V0Bncrn88+BOVV9Y4zp2v/w0RkWzo2w8aDG52BwDq4Ccy1b7iInJrh2fZbx8QxjQzFBAk4Aoaq+K5VKDztec3H5MmkAIppxSSyXy6UgCE5HUXQT0Pb58UvLTB34Qm1tE4CwEZ9EqtXq++6TUaYn0xD9YuZ8Gkgwv7LA1t2nbA8C9OsPH16+peGFpA6dZGQfbH/9RiOug379pl57RB1ITCxy58oxXjyrE8StsVOFQkF3w/8DCTuL1wm1OYIAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat no-repeat;" />
+</div>
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAlwAAAAdzc2gtcn
+NhAAAAAwEAAQAAAIEA6YOQ5he3DIIgu+O9HJLvcGlLNbKe04rN7KftKhaALsqJAtS435bk
+xjv/ycn2uMnTapx2Q+Eu/wqATITB+SZEfAkgRMZmTa2Ze3zt/b6rieRhgRgovu3VyXsRnM
+fgCEuJqU5VRW5WlayYRUsJnQTSaeUuJJvQWAeo9TI/DtYzvp8AAAIYX2d44V9neOEAAAAH
+c3NoLXJzYQAAAIEA6YOQ5he3DIIgu+O9HJLvcGlLNbKe04rN7KftKhaALsqJAtS435bkxj
+v/ycn2uMnTapx2Q+Eu/wqATITB+SZEfAkgRMZmTa2Ze3zt/b6rieRhgRgovu3VyXsRnMfg
+CEuJqU5VRW5WlayYRUsJnQTSaeUuJJvQWAeo9TI/DtYzvp8AAAADAQABAAAAgBRXdq7kj/
+iR+WIEs7uifSMwuPGDjtxksg2Uj09kSGRLFmZdu4EWtvUh0uV0J37vbfBSkubU3fAvrP99
+bRxUHhD5Z444BIyht8jlBetfoJOBSE/TQJ/69xguSmHB8XH8/WUqEaNZ2F+q0AAkRt5CTs
+lkML/YJI1mPzy+0ny6tS8hAAAAQQD6N3CByknj5WrDIJQCce+zbhbftnN4RM6OBuaHv4mm
+y0qIAH7i6ZHFqHlr1OnCPzqtzIt4McoyIDEf+9eH3ktKAAAAQQD8uQ/jcs27tMPwb2GYyU
+vSNZ9g225seV+Y1dU+GSk8zuqmkN1Cbc0dmJW8hqncYrbDuFbRH3kPiLTLO3Aifn2xAAAA
+QQDsirzo7Ox+f2SC0TCu6+wbar6f617IhWRlUyPDNa18+ju+BHdw1890sRSpany5RbJekq
+KoumXchRmzl8vZPoVPAAAAHWluaWZjQFRoZS10b3hpYy1hdmVuZ2VyLmxvY2FsAQIDBAU=
+-----END OPENSSH PRIVATE KEY-----
