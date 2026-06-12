@@ -1,0 +1,21 @@
+{
+    "name": "used-in-code-smoke",
+    "version": "1.0.0",
+    "description": "smoke",
+    "keywords": [
+        "blackduck",
+        "hub",
+        "notifications",
+        "alert"
+    ],
+    "author": "Synopsys, Inc.",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/blackducksoftware/blackduck-alert.git",
+    "dependencies": {
+        "history": "^4.10.1",
+        "react": "^16.13.1",
+        "connected-react-router": "^6.9.1",
+        "redux": "^4.0.5",
+        "react-dom": "^16.13.1"
+    }
+}
