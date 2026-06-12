@@ -1,0 +1,78 @@
+{
+  "name": "@barchart/common-node-js",
+  "version": "4.54.3",
+  "description": "Common classes, utilities, and functions for building Node.js servers",
+  "author": {
+    "name": "Bryan Ingle",
+    "email": "bryan.ingle@barchart.com",
+    "url": "https://www.barchart.com"
+  },
+  "contributors": [
+    {
+      "name": "Luka Sotra",
+      "email": "luka.sotra@barchart.com",
+      "url": "https://www.barchart.com"
+    }
+  ],
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/barchart/barchart-common-node-js"
+  },
+  "keywords": [
+    "Barchart",
+    "Utilities",
+    "JavaScript",
+    "Node.js"
+  ],"dependencies": {
+  "@barchart/common-js": "^4.51.0",
+  "@barchart/marketdata-api-js": "^6.2.5",
+  "aws-sdk": "^2.821.0",
+  "body-parser": "1.15.2",
+  "client-sessions": "0.7.0",
+  "express": "4.14.0",
+  "express-handlebars": "3.0.0",
+  "express-http-proxy": "0.10.1",
+  "http-digest-client": "0.0.3",
+  "log4js": "^5.3.0",
+  "moment": "^2.29.1",
+  "moment-timezone": "^0.5.34",
+  "multer": "1.2.1",
+  "node-yaml-config": "0.0.4",
+  "nodemailer": "^6.3.0",
+  "numeral": "^2.0.6",
+  "socket.io": "npm:socket.io@2.3.0",
+  "socket.io-backup": "npm:socket.io@2.3.0",
+  "socket-legacy": "npm:socket.io@2.3.0",
+  "twilio": "^3.43.0",
+  "uuid": "^9.0.1",
+  "xml2js": "0.4.17",
+  "@ckeditor/ckeditor-cloud-services-collaboration": "2.2.3",
+  "@prisma-cms/boilerplate": "2.0.10",
+  "@lcap/nasl": "3.13.0-beta.10",
+  "@serverless/utils-china": "0.1.28",
+  "@ckeditor/ckeditor5-adapter-ckfinder": "0.0.0-nightly-20250404.0"
+
+
+  },
+  "devDependencies": {
+    "git-get-status": "^1.0.5",
+    "gulp": "^4.0.2",
+    "gulp-git": "^2.10.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-prompt": "^1.2.0",
+    "jasmine": "^4.0.2",
+    "jshint": "^2.12.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barchart/barchart-common-node-js/issues"
+  },
+  "homepage": "https://github.com/barchart/barchart-common-node-js#readme",
+  "directories": {
+    "test": "test"
+  }
+}
