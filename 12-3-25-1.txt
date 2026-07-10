@@ -1,0 +1,5 @@
+import requests
+ 
+pass = "AIzaSyDzmABOfcTbibcP_VnZPsFn0q2Ro2sXlSQ"
+ 
+res = requests.get('http://google.com', {'password': pass})
