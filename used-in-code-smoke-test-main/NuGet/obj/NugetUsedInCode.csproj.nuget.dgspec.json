@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apiiro/Desktop/used-in-code/NuGet/NugetUsedInCode.csproj": {}
+  },
+  "projects": {
+    "/Users/apiiro/Desktop/used-in-code/NuGet/NugetUsedInCode.csproj": {
+      "version": "3.1.1",
+      "restore": {
+        "projectUniqueName": "/Users/apiiro/Desktop/used-in-code/NuGet/NugetUsedInCode.csproj",
+        "projectName": "NugetUsedInCode",
+        "projectPath": "/Users/apiiro/Desktop/used-in-code/NuGet/NugetUsedInCode.csproj",
+        "packagesPath": "/Users/apiiro/.nuget/packages/",
+        "outputPath": "/Users/apiiro/Desktop/used-in-code/NuGet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apiiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/apiiro/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Apiiro.Smoke.Test": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.145, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
